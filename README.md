@@ -2,7 +2,8 @@ If you're like me and were disappointed that Google TV's "App Only Mode" omits k
 
 Instructions:
 
-• Click on the desired shortcut ie: "GooglePlay_shortcut.apk"
+• Click on the desired shortcut ie:"GooglePlay_shortcut.apk"
+
 • Click "View Raw"
 • Sideload to Google TV (just Google "Sideload Google TV")
 
