@@ -5,6 +5,7 @@ Instructions:
 • Click on the desired shortcut ie:"GooglePlay_shortcut.apk"
 
 • Click "View Raw"
+
 • Sideload to Google TV (just Google "Sideload Google TV")
 
 If you don't trust random apks(smart person) from strangers then you can make your own here: 
