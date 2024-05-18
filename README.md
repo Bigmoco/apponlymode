@@ -16,4 +16,4 @@ App Package names are "com.android.vending" for Play Store and "com.google.andro
 You can figure out the rest, you're smart, remember?
 
 
-TLDR: These two shortcuts allow access to their respective apps while using "App Only Mode" on Google TVs
+TLDR: These shortcuts allow access to their respective apps while using "App Only Mode" on Google TVs
